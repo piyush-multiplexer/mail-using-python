@@ -3,7 +3,7 @@
  
  In this 'Sender' and 'Recipient' mail id entered run time.
  
-'mailserver'(e.g. "smtp.gmail.com") is of google given at run time.
+'mailserver'(e.g. "smtp.gmail.com") of google is given at run time.
 
 'password' of Sender is given at runtime.
 
